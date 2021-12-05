@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="Wandering Horde Frequency For Vanilla" />
+    <Description value="Allows the player to increase the frequency of the wandering horde" />
+    <Author value="KhaineGB" />
+    <Version value="1.0" />
+    <Website value="" />
+  </ModInfo>
+	<DMT>
+		<!-- By default, compiled mods will be compiled into an assembly that matches the name value above. To over-ride, define this: -->
+		<AssemblyName>WanderingHordePatch</AssemblyName>
+		<!-- Optional: This will control the folder's final destination  name -->
+		<DestinationFolderName>KHA20-WanderingHordePatch</DestinationFolderName>
+	</DMT>
+</xml>

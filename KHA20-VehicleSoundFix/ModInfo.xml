@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="Vehicle Sound Fix" />
+    <Description value="Stops the annoying sound with custom vehicles." />
+    <Author value="KhaineGB" />
+    <Version value="1.0" />
+    <Website value="" />
+  </ModInfo>
+    <DMT>
+        <!-- By default, compiled mods will be compiled into an assembly that matches the name value above. To over-ride, define this: -->
+        <AssemblyName>VehicleSoundFix</AssemblyName>
+        <!-- Optional: This will control the folder's final destination  name -->
+        <DestinationFolderName>KHA20-VehicleSoundFix</DestinationFolderName>
+    </DMT>
+</xml>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Vehicle Damage Patch" />
+		<Description value="Increases the damage cap on vehicles hitting zombies" />
+		<Author value="KhaineGB" />
+		<Version value="1.0" />
+		<Website value="" />
+	</ModInfo>
+    <DMT>
+        <!-- By default, compiled mods will be compiled into an assembly that matches the name value above. To over-ride, define this: -->
+        <AssemblyName>VehicleDamagePatch</AssemblyName>
+        <!-- Optional: This will control the folder's final destination  name -->
+        <DestinationFolderName>KHA20-VehicleDamagePatch</DestinationFolderName>
+    </DMT>
+</xml>

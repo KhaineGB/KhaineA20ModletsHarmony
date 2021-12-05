@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="Zombie Fall Damage" />
+    <Description value="Patches EntityZombie so they can take full damage from a fall" />
+    <Author value="KhaineGB" />
+    <Version value="1.0" />
+    <Website value="" />
+  </ModInfo>
+	<DMT>
+		<!-- By default, compiled mods will be compiled into an assembly that matches the name value above. To over-ride, define this: -->
+		<AssemblyName>ZombieFallDamage</AssemblyName>
+		<!-- Optional: This will control the folder's final destination  name -->
+		<DestinationFolderName>KHA20-ZombieFallDamage</DestinationFolderName>
+	</DMT>
+</xml>
