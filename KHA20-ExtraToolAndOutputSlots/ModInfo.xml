@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="Extra Tool And Output Slots" />
+    <Description value="Allows up to 6 tool slots and 12 output slots" />
+    <Author value="KhaineGB" />
+    <Version value="1.0" />
+    <Website value="" />
+  </ModInfo>
+    <DMT>
+        <!-- By default, compiled mods will be compiled into an assembly that matches the name value above. To over-ride, define this: -->
+        <AssemblyName>ExtraToolAndOutputSlots</AssemblyName>
+        <!-- Optional: This will control the folder's final destination  name -->
+        <DestinationFolderName>KHA20-ExtraToolAndOutputSlots</DestinationFolderName>
+    </DMT>
+</xml>
